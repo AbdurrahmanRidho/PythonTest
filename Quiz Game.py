@@ -1,3 +1,5 @@
+# Abdurrahman Ridho
+
 print ("Welcome to anime quiz!")
 
 play = input("Are you weebs?")
