@@ -20,7 +20,7 @@ else:
 
 
 # No 2
-answer = input("Tokyo Ghoul opening? ")
+answer = input("Tokyo Ghoul opening 1? ")
 if answer.lower() == "unravel":
     print('Correct!')
     score += 1
